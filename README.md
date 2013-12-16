@@ -1,5 +1,3 @@
-CreditCalc
-==========
 +UGATU_IST
  +=========
  +
